@@ -42,7 +42,7 @@ Then I created documentation for the data models so that they can be presented
 using the dbt docs UI. I then connected the reporting environment and used the
 data to generate a dashboard.
 
-Link to the deployed dbt documenation can be found [here](https://vibrant-noyce-65db5a.netlify.app)
+Link to the deployed dbt documenation can be found [here](https://vibrant-noyce-65db5a.netlify.app).
 
 ![image](https://user-images.githubusercontent.com/42535161/134764888-c65b84b1-cd54-441e-bf6c-8435ff755c19.png)
 
