@@ -19,14 +19,14 @@ tech-stack that will help us provide the AI service to the client.
 The data contains all of the 30-second raw sensor data from January to October
 2016 for the location of the I80 corridor near Davis, CA.
 
-    * Summary statistics for each station can be found here.
-    * Median of total flow for each weekday. Could be used to make animation can
+    - Summary statistics for each station can be found here.
+    - Median of total flow for each weekday. Could be used to make animation can
       be found here.
-    * 30-second time series for a single station (Richards Ave) near downtown Davis
+    - 30-second time series for a single station (Richards Ave) near downtown Davis
       can be found here.● The medians for each observation grouped by (station, weekday, hour, half a
       minute) can be found here.
-    * Metadata is small- just 53 stations can be found here.
-    * The main data is around 35 million observations can be found here.
+    - Metadata is small- just 53 stations can be found here.
+    - The main data is around 35 million observations can be found here.
 
 ## Techniques Used
 
