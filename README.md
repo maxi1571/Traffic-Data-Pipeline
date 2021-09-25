@@ -60,7 +60,7 @@ was complex, and with more time, there could have been a lot more exploration an
 a good transformation, and dbt could have been put to good use.
 
 ## References
-➢ [How to build a data extraction pipeline with Apache Airflow](https://towardsdatascience.com/how-to-build-a-data-extraction-pipeline-with-apache-airflow-fa83cb8dbcdf)
-➢ [A docker tutorial for beginners](https://greatexpectations.io/blog/ge-data-warehouse/)
-➢ [Data Building Tool (dbt) introduction and full youtube tutorial](https://www.youtube.com/playlist?list=PLy4OcwImJzBLJzLYxpxaPUmCWp8j1esvT)
-➢ [Ensuring data quality in a data warehouse environment with Great Expectations](https://greatexpectations.io/blog/ge-data-warehouse/)
+* [How to build a data extraction pipeline with Apache Airflow](https://towardsdatascience.com/how-to-build-a-data-extraction-pipeline-with-apache-airflow-fa83cb8dbcdf)
+* [A docker tutorial for beginners](https://greatexpectations.io/blog/ge-data-warehouse/)
+* [Data Building Tool (dbt) introduction and full youtube tutorial](https://www.youtube.com/playlist?list=PLy4OcwImJzBLJzLYxpxaPUmCWp8j1esvT)
+* [Ensuring data quality in a data warehouse environment with Great Expectations](https://greatexpectations.io/blog/ge-data-warehouse/)
